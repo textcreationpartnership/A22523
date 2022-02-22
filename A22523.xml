@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c., to all to whom these presents shall come greeting whereas wee by our commission vnder our great seale of England ... haue giuen power and authoritie vnto our commissioners therein named ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22523</idno>
+            <idno type="STC">STC 8949</idno>
+            <idno type="STC">ESTC S3771</idno>
+            <idno type="EEBO-CITATION">33150947</idno>
+            <idno type="OCLC">ocm 33150947</idno>
+            <idno type="VID">28830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:123)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c., to all to whom these presents shall come greeting whereas wee by our commission vnder our great seale of England ... haue giuen power and authoritie vnto our commissioners therein named ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Stansby?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Grant for life to P. Craford and M. Birkenhead of the office of clerk for writing passports.</note>
+                  <note>Imperfect: faded.</note>
+                  <note>"Per bre. de priuato sigillo. Wolseley."</note>
+                  <note>"Witnesse Our selfe at Canbury, the five and twentieth day of May, in the sixth yeare of our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Craford, Patrick.</term>
+               <term>Birkenhead, Mathew.</term>
+               <term>Passports --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28830:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon, surrounded by a garter and surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>CHARLES,</hi> by the grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith &amp;c.</signed> 
+               <salute>To all to whom theſe preſents ſhall come greeting.</salute>
+            </opener>
+            <p>Whereas, wee by our Commiſſion vnder our great Seals of <hi>England,</hi> bearing date with theſe preſents, haue giuen power and authoritie vnto our Commiſſi<g ref="char:EOLhyphen"/>oners therein named or mentioned, or any two or more of them (amongſt other things) to grant Licence and Licences to ſuch fit perſon and perſons as ſhall haue occaſion to trauell beyond the Seas, and which ſhall be deſirous to goe forth of this Kingdome, at our Port of our Citie of <hi>Br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtoll,</hi> or at any other Port, Hauen or Creeke, betweene our ſaid Citie of <hi>Briſtoll</hi> and <hi>Bewmawrice,</hi> or at the Port of <hi>Bewmaurice,</hi> or at any other Port, Hauen, or Creeke between <hi>Bewmawrice</hi> and our Citie of <hi>Cheſter,</hi> or at the Port of <hi>Cheſter,</hi> or at any other Port, Hauen, or Creeke betweene our Citie of <hi>Cheſter</hi> and <hi>Leuerpool<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or at our Port of <hi>Leuerpoole,</hi> or at any other Port, Hauen, or Creeke betweene <hi>Leuerpoole</hi> and <hi>Workington,</hi> and before their going forth to examine them of their names and ſurnames, and the place of their birth and abode, their ſtate, degrée, vocation, trade, myſtery, or occupation, and the true cauſe or cauſes of their going ouer, together with the place or places wither they in<g ref="char:EOLhyphen"/>tend or are to goe<g ref="char:punc">▪</g> and the time that they intend, or are like to ſtay, and tarry before their returne, and all other queſtions that in the diſcretions of our ſaid Commiſſi<g ref="char:EOLhyphen"/>oners, according to the occaſions they ſhould thinke fit of. All which perſons and their anſweres in the poynts afore-ſaid, or what elſe in the diſcretions of our ſaid Com<g ref="char:EOLhyphen"/>miſſioners, ſhould be thought fit to be demanded of them and of the time of their paſſage, Our will was, that our Commiſſioners ſhould cauſe an orderly and per<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct entry to bee made into a booke by ſuch Clerke or Clerks as wee had nominated or appointed, or ſhould nominate and appoint thereunto, vnder our Great Seals of <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gland,</hi> or his or their deputie or deputies, which booke might be extant vpon all occaſions, as by our ſaid Commiſſion, amongſt diuers other things therein contained more at large it doth and may appeare. Now know yée that wée to the end this our pleaſure may be the better executed, we doe hereby authorize and of Our e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eciall grace, certaine knowledge, and meere motion, haue willed, ordayned, conſtituted and granted, and by theſe preſents for vs our Heires and Succeſſors, doe, will, ord<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, conſtitute, and grant, that for euer hereafter there ſhall be one certaine Office to be called and termed as hereafter in theſe preſents is in that behalfe mentioned and ex<g ref="char:EOLhyphen"/>preſſed. And we doe hereby for vs our Heires and Succeſſors erect create and make an Office to be and be called the Office of Clerke of vs our Heyres and Succeſſors, for writing and entring of Licences and paſſes to bee granted by any Commiſſioners to any perſons going out of this Realme, from the Port of <hi>B<gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>l, B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wm<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Cheſter</hi> and <hi>Leuerpoole.</hi> And that for euer hereafter there be and ſhall be one or more officer or officers by vs our Heyres and Succeſſors from time to time nominated, conſtituted, and appointed, which ſhall be and ſhall be called the Clerke or Clerkes of vs our Heyres and Succeſſors, for writing and entring of Licences and paſſes to be granted by any Commiſſioners to any perſons going out of this Realme from the Ports of <hi>Briſtoll, Bewmawrice, Che<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> and <hi>Leuerpoole.</hi> And our further will and pleaſure is and we doe hereby for vs our Heyres and Succeſſors ordaine and appoint that the ſaid officer and officers do from time to time by vs our Heyres and Suc<g ref="char:EOLhyphen"/>ceſſors, to be named and appointed (and none other perſon and perſons whatſoeuer) by himſelfe or themſelues, or his or their ſufficient Deputy or Deputies ſhall haue the writing, Regiſtring, and entring into ſeuerall bookes firmely bound and made vp of the names and ſurnames, place of birth and abode, ſtate, degree, vocation trade, my<g ref="char:EOLhyphen"/>ſtery and occupation of all and euery perſons or perſons which by vertue of our Commiſſion aforeſaid, or any other Commiſſion or Commiſſions hereafter to bee made or granted to the ſame or like purpoſe, ſhall be licenſed or permitted to paſſe out of this Realme at the aforeſaid Port of <hi>Briſtoll,</hi> or at any other Port, Hauen or Creeke betweene <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtoll</hi> and <hi>Bewmawrice,</hi> or at the Port of <hi>Bewmawrice,</hi> or at any other Port, Hauen or Creeke betweene <hi>Bewmawrice</hi> and <hi>Cheſter,</hi> or at the Port of <hi>Cheſter,</hi> or at any other Port, Hauen or Creeke, between our Cities of <hi>Cheſter</hi> and <hi>Leuerpoole,</hi> or at the Port of <hi>Leuerpoole,</hi> or at any other Port, Hauen or Creeke betweene <hi>Leuer<g ref="char:EOLhyphen"/>poole</hi> and <hi>Workington</hi> aforeſaid, and the cauſes of their going ouer, together with the place or places whither they intend to goe, and the time that they intend and are like to ſtay and tarry before their returne; and other their anſweres in the premiſes, together with the paſſes themſelues. And becauſe it is requiſite that the ſaid Offi<g ref="char:EOLhyphen"/>cer or Officers, their Deputie and Deputies ſhould haue ſome conuenient recompence for their labour, care and paines to be beſtowed and taken in the execution of the ſaid Office, wherein our Princely care ſo farre extendeth it ſelfe, as that we will not any of our Subjects bee vnduely exacted vpon. Wee doe therefore hereby for vs, our Heyres and Succeſſors, ordaine, conſtitute and grant that it ſhall and may be lawfull to and for the ſaid Officer and Officers, and his and their Deputie and Depu<g ref="char:EOLhyphen"/>ties, to demand take and receiue for the execution of the ſaid Office, and for his and their paines and labour to be taken in the premiſes of euery perſon, who ſhall p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe beyond the Seas, as aforeſaid, the fee, reward or ſomme of ſixe pence; and hath heretofore v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ually beene taken for the like, and not in any ſort to exceed the ſame. K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow yee alſo further that we for the better execution of this our will and pleaſure, repoſing truſt and confidence in the fidelity, diligence, vnderſtanding and diſcretion of our wel-beloued Subjects <hi>Patricke Craford</hi> and <hi>Mathew Birkenhead,</hi> Gentlemen: Of our eſpeciall grace, certaine knowledge and meere motion, haue giuen and gran<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and by theſe preſents for vs, our Heyres and Succeſſors, do giue and grant vnto the ſaid <hi>Patricke Craford,</hi> and <hi>Mathew Bi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kenhead,</hi> the ſaid Office of Clerks of vs our Heyres and Succeſſors, for writing and entring of Licences and Paſſes to be granted by any Commiſſioners to any perſons going out of this Realme from the Por<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>B<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtoll, Bewmaw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, Cheſter</hi> and <hi>Leuerpoole.</hi> And them the ſaid <hi>Patricke Craford</hi> and <hi>Mathew Birkenhead,</hi> the firſt and preſent Clerke and Clerkes of vs our Heyres and Succeſ<g ref="char:EOLhyphen"/>ſors for writing and entring of Licences and paſſes to be granted by any Commiſſioners to any perſons going out of this Realme from the Ports of <hi>B<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l, Bewmaw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, Cheſter, Leuerpoole</hi> and <hi>Workington,</hi> to do and execute all things in manner aforeſaid to the ſaid Office belonging or appertaning, or herein mentioned to be thereunto be<g ref="char:EOLunhyphen"/>longing or appertaining, or by the Officer or Officers afore ſaid to be done and performed, we doe hereby for vs our Heyres and Succeſſors, nominate, make<g ref="char:punc">▪</g> ordaine, create, conſtitute, and appoint by theſe preſents. To haue, hold and enjoy the ſaid Office with the appurtenances to the ſaid <hi>Patricke Craford,</hi> and <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thew Birkenhead,</hi> and to execute and exerciſe the ſame aſwell by himſelfe or themſelues, or his or their ſufficient Deputie or Deputies, during the naturall liues and the na<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urall life of the lon<g ref="char:EOLhyphen"/>ger liuer of them, together with the foreſaid fees, rewards, and ſommes of money, in as large and ample manner as we can or may giue, grant or diſpoſe of the ſame. Requiring, charging, and commanding by theſe preſents for vs, our Heyres and Succeſſors, that no perſon or perſons whatſoeuer, other then the ſaid <hi>Patricke Craford,</hi> and <hi>Mathew Birkenhead,</hi> and other then the Officer and Officers by vs, our Heyres and Succeſſors to be nominated, conſtituted, and appointed according to the tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meaning of theſe preſents, and his and their Deputie and Deputies doe entermeddle or deale in the ſaid Office, or doe, or execute any thing or things therevnto belong<g ref="char:EOLhyphen"/>ing, or herein or hereby mentioned or intended by the Officer or Officers aforeſaid to be done, executed or performed vpon paine of the indignation and diſpleaſure of vs our Heyres and Succeſſors, and vpon ſuch further paines and penalties as by the Lawes and Statutes of this our Realme, may be inflicted vpon them for their diſo<g ref="char:EOLhyphen"/>bedience and contempt in that behalfe.</p>
+            <p>Neuertheleſſe, to the intent that We, our Heyres and Succeſſors may be from time to time ſatiſfied of all procéedings to be had in the premiſes. Our further will and pleaſure is, and we doe hereby for vs, our Heyres and Succeſſors, require and command that as well the ſaid <hi>Patricke Craford</hi> and <hi>Mathew Birkenhead,</hi> as all others who ſhall ſucceed them in the ſaid Office, their Deputie or Deputies ſhall yearely once in euery yeare returne and certifie in one or more booke or bookes, vnder their hand or hands writing, all things by them or any of them to be entred or Regiſtred by vertue of this our grant into the Office of the Remembrancer of the Exchequer of vs, our Heyres and Succeſſors there to be extant vpon all occaſions. And laſtly, We doe hereby for vs, our Heyres and Succeſſors, ſtraightly charge and command all and ſingular Iuſtices of peace, Mayors, Sheriffes, Bayliffes, Conſtables, Head-boroughes, and all other the Officers, Miniſters and Subjects of vs, our Heyres and Succeſſors whatſoeuer, to whom it ſhall or may appertaine, to bee ayding, helping, and aſſiſting vnto the ſaid <hi>Patricke Craford,</hi> and <hi>Mathew Birkenhead,</hi> and all others which ſhall ſucceed them in the ſaid Office, their Deputie and Deputies and euery of them in the execution of the ſaid Office, and of our will and pleaſure herein expreſ<g ref="char:EOLhyphen"/>ſed in all things, according to the true meaning of theſe preſents, as they tender the pleaſure of vs our Heyres and Succeſſors, and will auoyd the contrary at their pe<g ref="char:EOLhyphen"/>rils. Although expreſſe mention of the certainty of the premiſes, or of any of them, or of any other guifts or grants by vs or any our Progenitors or Predeceſſors to the ſaid <hi>Patricke Craford,</hi> and <hi>Mathew Birkenhead,</hi> heretofore made in theſe preſents, is not made, or any Statute, Act, Ordinance, prouiſion Proclamation or reſtraint to the contrary thereof heretofore had, made, ordained or prouided, or any other thing cauſe or matter whatſoeuer in any wiſe notwithſtanding.</p>
+            <p>In witneſſe whereof, Wee haue cauſed theſe our Letters to bee Patents.</p>
+            <closer>
+               <dateline>Witneſſe Our ſelfs at <hi>Canbury,</hi> 
+                  <date>the fiue and twentieth day of <hi>May,</hi> in the ſixth years of our Reigne.</date>
+               </dateline> 
+               <signed>
+                  <hi>Per bre. de priuato Sigillo. <hi>Wolſe<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ey.</hi>
+                  </hi>
+               </signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
